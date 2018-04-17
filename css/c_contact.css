@@ -132,7 +132,7 @@
  	width:390px ;
  }
  .c_sublist_nav input{
- 	width: 381px;
+ 	width: 389px;
  	height: 30px;
  	padding-left: 5px;
  	color: #666666;
@@ -143,8 +143,8 @@
  .c_sublist_email  .c_select{
  	position: absolute;
  	top: 26px;
- 	right: 41px;
- 	height: 34px;
+ 	right: 42px;
+ 	height: 30px;
  	background: turquoise;
  	width: 100px;
  }
